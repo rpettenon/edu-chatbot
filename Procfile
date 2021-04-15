@@ -7,4 +7,4 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 web: voila --port = $ PORT --no-browser --template = material --enable_nbextensions = True chatbot.ipynb}
+web: voila --port = $ PORT --no-browser --template = material --enable_nbextensions = True chatbot.ipynb}
